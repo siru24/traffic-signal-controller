@@ -29,7 +29,7 @@
 `define S1 3'd1 //YELLOW RED
 `define S2 3'd2 //RED RED
 `define S3 3'd3 //RED GREEN
-`define s4 3'd4 //RED YELLOW
+`define S4 3'd4 //RED YELLOW
 //Delays
 
 `define Y2RDELAY 3 //Yellow to red delay
